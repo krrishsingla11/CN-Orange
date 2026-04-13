@@ -181,3 +181,10 @@ sudo mn -c
 3. Mininet Overview — https://mininet.org/overview/
 4. Mininet Walkthrough — https://mininet.org/walkthrough/
 5. Open vSwitch — https://www.openvswitch.org/
+
+## Screenshots
+- Screenshot 1: POX controller - ALERT and BLOCKED messages
+- Screenshot 2: h4 blocked - 100% packet loss
+- Screenshot 3: h1 normal traffic - 0% packet loss  
+- Screenshot 4: Flow table showing DROP rule
+- Screenshot 5: iperf throughput test
