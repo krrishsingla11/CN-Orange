@@ -1,0 +1,63 @@
+[2026-04-13 06:11:40] =======================================================
+[2026-04-13 06:11:40] Dynamic Host Blocking System started (POX)
+[2026-04-13 06:11:40] Threshold : 50 pkts / 10s
+[2026-04-13 06:11:40] Block rule: hard_timeout = 60s
+[2026-04-13 06:11:40] =======================================================
+[2026-04-13 06:11:40] Dynamic Host Blocking System loaded.
+[2026-04-13 06:15:50] =======================================================
+[2026-04-13 06:15:50] Dynamic Host Blocking System started (POX)
+[2026-04-13 06:15:50] Threshold : 50 pkts / 10s
+[2026-04-13 06:15:50] Block rule: hard_timeout = 60s
+[2026-04-13 06:15:50] =======================================================
+[2026-04-13 06:15:50] Dynamic Host Blocking System loaded.
+[2026-04-13 06:21:08] [SETUP] Switch connected: dpid=00-00-00-00-00-01
+[2026-04-13 06:25:57] =======================================================
+[2026-04-13 06:25:57] Dynamic Host Blocking System started (POX)
+[2026-04-13 06:25:57] Threshold : 10 pkts / 10s
+[2026-04-13 06:25:57] Block rule: hard_timeout = 60s
+[2026-04-13 06:25:57] =======================================================
+[2026-04-13 06:25:57] Dynamic Host Blocking System loaded.
+[2026-04-13 06:26:09] [SETUP] Switch connected: dpid=00-00-00-00-00-01
+[2026-04-13 06:26:14] [ALERT]  dpid=00-00-00-00-00-01  host=00:00:00:00:00:02  sent 11 pkts in 10s — BLOCKING
+[2026-04-13 06:26:14] [BLOCKED]  dpid=00-00-00-00-00-01  host=00:00:00:00:00:02  (expires in 60s)
+[2026-04-13 06:26:14] [ALERT]  dpid=00-00-00-00-00-01  host=00:00:00:00:00:01  sent 11 pkts in 10s — BLOCKING
+[2026-04-13 06:26:14] [BLOCKED]  dpid=00-00-00-00-00-01  host=00:00:00:00:00:01  (expires in 60s)
+[2026-04-13 06:27:30] =======================================================
+[2026-04-13 06:27:30] Dynamic Host Blocking System started (POX)
+[2026-04-13 06:27:30] Threshold : 30 pkts / 10s
+[2026-04-13 06:27:30] Block rule: hard_timeout = 60s
+[2026-04-13 06:27:30] =======================================================
+[2026-04-13 06:27:30] Dynamic Host Blocking System loaded.
+[2026-04-13 06:27:31] [SETUP] Switch connected: dpid=00-00-00-00-00-01
+[2026-04-13 06:27:50] [SETUP] Switch connected: dpid=00-00-00-00-00-01
+[2026-04-13 06:32:14] [SETUP] Switch connected: dpid=00-00-00-00-00-01
+[2026-04-13 06:35:59] =======================================================
+[2026-04-13 06:35:59] Dynamic Host Blocking System started (POX)
+[2026-04-13 06:35:59] Threshold : 30 pkts / 10s
+[2026-04-13 06:35:59] Block rule: hard_timeout = 60s
+[2026-04-13 06:35:59] =======================================================
+[2026-04-13 06:35:59] Dynamic Host Blocking System loaded.
+[2026-04-13 06:35:59] [SETUP] Switch connected: dpid=00-00-00-00-00-01
+[2026-04-13 06:36:15] [SETUP] Switch connected: dpid=00-00-00-00-00-01
+[2026-04-13 06:41:32] =======================================================
+[2026-04-13 06:41:32] Dynamic Host Blocking System started (POX)
+[2026-04-13 06:41:32] Threshold : 30 pkts / 5s
+[2026-04-13 06:41:32] Block rule: hard_timeout = 60s
+[2026-04-13 06:41:32] =======================================================
+[2026-04-13 06:41:32] Dynamic Host Blocking System loaded.
+[2026-04-13 06:41:33] [SETUP] Switch connected: dpid=00-00-00-00-00-01
+[2026-04-13 06:41:53] [SETUP] Switch connected: dpid=00-00-00-00-00-01
+[2026-04-13 06:42:06] [ALERT]  dpid=00-00-00-00-00-01  host=00:00:00:00:00:04  sent 31 pkts in 5s — BLOCKING
+[2026-04-13 06:42:06] [BLOCKED]  dpid=00-00-00-00-00-01  host=00:00:00:00:00:04  (expires in 60s)
+[2026-04-13 06:50:41] =======================================================
+[2026-04-13 06:50:41] Dynamic Host Blocking System started (POX)
+[2026-04-13 06:50:41] Threshold : 30 pkts / 5s
+[2026-04-13 06:50:41] Block rule: hard_timeout = 60s
+[2026-04-13 06:50:41] =======================================================
+[2026-04-13 06:50:41] Dynamic Host Blocking System loaded.
+[2026-04-13 06:50:42] [SETUP] Switch connected: dpid=00-00-00-00-00-01
+[2026-04-13 06:50:53] [SETUP] Switch connected: dpid=00-00-00-00-00-01
+[2026-04-13 06:51:06] [ALERT]  dpid=00-00-00-00-00-01  host=00:00:00:00:00:04  sent 31 pkts in 5s — BLOCKING
+[2026-04-13 06:51:06] [BLOCKED]  dpid=00-00-00-00-00-01  host=00:00:00:00:00:04  (expires in 60s)
+[2026-04-13 06:54:16] [ALERT]  dpid=00-00-00-00-00-01  host=00:00:00:00:00:03  sent 31 pkts in 5s — BLOCKING
+[2026-04-13 06:54:16] [BLOCKED]  dpid=00-00-00-00-00-01  host=00:00:00:00:00:03  (expires in 60s)
